@@ -1,0 +1,3 @@
+# photoSphere
+
+Trial with photospheres
